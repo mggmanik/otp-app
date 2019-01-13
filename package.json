@@ -1,5 +1,5 @@
 {
-  "name": "sms-app",
+  "name": "otp-app",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -16,6 +16,6 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@angular/cli": "~7.0.5"
+    "@angular/cli": "^7.0.5"
   }
 }
