@@ -616,7 +616,7 @@ var HeaderComponent = /** @class */ (function () {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "p {\n  color: grey;\n}\n\n.time-align{\n  width: 300px;\n  text-align: right;\n}\n\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvbGlzdC1tZXNzYWdlcy9saXN0LW1lc3NhZ2VzLmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRSxZQUFZO0NBQ2I7O0FBRUQ7RUFDRSxhQUFhO0VBQ2Isa0JBQWtCO0NBQ25CIiwiZmlsZSI6InNyYy9hcHAvbGlzdC1tZXNzYWdlcy9saXN0LW1lc3NhZ2VzLmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyJwIHtcbiAgY29sb3I6IGdyZXk7XG59XG5cbi50aW1lLWFsaWdue1xuICB3aWR0aDogMzAwcHg7XG4gIHRleHQtYWxpZ246IHJpZ2h0O1xufVxuIl19 */"
+module.exports = "p {\n  color: grey;\n}\n\n.mat-list-item:hover {\n  background-color: ghostwhite;\n}\n\n.time-align{\n  width: 300px;\n  text-align: right;\n}\n\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvbGlzdC1tZXNzYWdlcy9saXN0LW1lc3NhZ2VzLmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRSxZQUFZO0NBQ2I7O0FBRUQ7RUFDRSw2QkFBNkI7Q0FDOUI7O0FBRUQ7RUFDRSxhQUFhO0VBQ2Isa0JBQWtCO0NBQ25CIiwiZmlsZSI6InNyYy9hcHAvbGlzdC1tZXNzYWdlcy9saXN0LW1lc3NhZ2VzLmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyJwIHtcbiAgY29sb3I6IGdyZXk7XG59XG5cbi5tYXQtbGlzdC1pdGVtOmhvdmVyIHtcbiAgYmFja2dyb3VuZC1jb2xvcjogZ2hvc3R3aGl0ZTtcbn1cblxuLnRpbWUtYWxpZ257XG4gIHdpZHRoOiAzMDBweDtcbiAgdGV4dC1hbGlnbjogcmlnaHQ7XG59XG4iXX0= */"
 
 /***/ }),
 
